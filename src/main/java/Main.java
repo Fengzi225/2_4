@@ -5,8 +5,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         System.out.println("1 - suma");
         System.out.println("2 - różnica");
-        System.out.println("3- iloczyn");
-        System.out.println("4- iloraz");
+        System.out.println("3 - iloczyn");
+        System.out.println("4 - iloraz");
         System.out.println("Wybrana funkcja: ");
         int wybor = scanner.nextInt();
 
